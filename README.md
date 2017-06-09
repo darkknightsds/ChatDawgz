@@ -1,44 +1,36 @@
-# Planning
+# _ChatDawgz_
 
-## Best Chat App Ever by Janek and Shane
+## _IM App for Android Devices | 06-08-2017_
 
-### Activities
-- Main/ NavDrawer
-- LogIn (complete)
-- Register (complete)
+## By _**Janek Brandt and Shane Stafford**_
 
-### Fragments
-MVP
-- Chat
-Tier 1
-- Profile
-- Contacts
+### Description
+_This dog-themed instant messaging app utilizes Firebase user authentication and FirebaseUI to allow users to communicate with other registered users at the push (or paw) of a button._
 
-### Dependencies
-- Firebase (complete)
-- Butterknife (complete)
-- Auto Value/ Parceler/ Experimential!!
+### Technologies Used
+* Java, Android, XML, Firebase
 
-### Data Models
-- Chat
-  - id
-  - users
-- Message
-  - id
-  - user
-  - body
-- User
-  - name
-  - image (url)
-  - chats
+### Prerequisites
 
-### Adapters
-- Message Adapter
-- User chats adapter
+You will need the following things properly installed on your computer to run the program.
 
-### Methods
-- getChats(userId)
-- getMessages(chatId)
+* [Git](https://git-scm.com/)
+* [Android Studio](https://developer.android.com/studio/index.html)
 
-### Creative Theme(!)
-- Musical dogs that code
+### Installation
+
+* `git clone https://github.com/darkknightsds/ChatDawgz`
+
+
+### Running / Development
+* Open Android Studio
+* Choose "Open existing project"
+* Select cloned folder from list
+* Sync Gradle
+* Press green arrow ("Run") to view app
+
+## License
+
+Copyright (c) 2017 **_Janek Brandt and Shane Stafford_**
+
+This software is licensed under the MIT license.
