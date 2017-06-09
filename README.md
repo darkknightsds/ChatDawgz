@@ -10,16 +10,24 @@ _This dog-themed instant messaging app utilizes Firebase user authentication and
 ### Behavior and Screenshots
 
 * LogIn
-![LogIn](https://user-images.githubusercontent.com/25571782/26991355-db946ce8-4d0e-11e7-9e32-ab37105e299a.png)
-* Create Account
-![Create Account](https://user-images.githubusercontent.com/25571782/26991351-da2d9c30-4d0e-11e7-81e2-563f9ac29489.png)
-* Chat with Friends
-![Chat with Friends](https://user-images.githubusercontent.com/25571782/26991356-dcafe904-4d0e-11e7-9411-a97b033af089.png)
-* Manage Chats
-![Manage Chats](https://user-images.githubusercontent.com/25571782/26991363-ddece772-4d0e-11e7-86fb-0c6adc205a26.png)
-* Navigation Drawer
-![Nav Drawer](https://user-images.githubusercontent.com/25571782/26991368-e0e695e0-4d0e-11e7-9703-b6ca6af7cca9.png)
 
+![LogIn](https://user-images.githubusercontent.com/25571782/26991355-db946ce8-4d0e-11e7-9e32-ab37105e299a.png)
+
+* Create Account
+
+![Create Account](https://user-images.githubusercontent.com/25571782/26991351-da2d9c30-4d0e-11e7-81e2-563f9ac29489.png)
+
+* Chat with Friends
+
+![Chat with Friends](https://user-images.githubusercontent.com/25571782/26991356-dcafe904-4d0e-11e7-9411-a97b033af089.png)
+
+* Manage Chats
+
+![Manage Chats](https://user-images.githubusercontent.com/25571782/26991363-ddece772-4d0e-11e7-86fb-0c6adc205a26.png)
+
+* Navigation Drawer
+
+![Nav Drawer](https://user-images.githubusercontent.com/25571782/26991368-e0e695e0-4d0e-11e7-9703-b6ca6af7cca9.png)
 
 ### Technologies Used
 * Java, Android, XML, Firebase
@@ -34,7 +42,6 @@ You will need the following things properly installed on your computer to run th
 ### Installation
 
 * `git clone https://github.com/darkknightsds/ChatDawgz`
-
 
 ### Running / Development
 * Open Android Studio
